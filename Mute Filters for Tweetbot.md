@@ -1,23 +1,26 @@
-Timezone Retweet ("Nothing I tweet should ever be missed. Ever")  
-(?i)timezone.*(retweet|rt)
 
-I @Dribbbled earlier/last night ("No need to check dribbble.com. I'll tell you every time I create a button right here on Twitter. And remind you if you missed it")  
-(?i)dribbble.*(last.*night|earlier)|(last.*night|earlier).*dribbble
+Persistent
+-----------
+* `(?i)timezone.*(retweet|rt)` - Timezone Retweet (*"Nothing I tweet should ever be missed. Ever"*) ([@iconaholic](http://twitter.com/iconaholic))
 
-In case you missed it ("In case you missed it last night I did something amazing that shouldn't be missed")  
-(?i)in.*case.*you.*missed.*it
+* `(?i)in.*case.*you.*missed.*it` - In case you missed it… (*"…I did something amazing that shouldn`t be missed"*)  ([@iconaholic](http://twitter.com/iconaholic))
 
-Popular page ("I'm pretty amazing, I made the Popular Page on Dribbble" *smug grin*)  
-(?i)popular.*page
+Ego Stroking
+-----------
+* `(?i)dribbble.*(last.*night|earlier)|(last.*night|earlier).*dribbble` - I @Dribbbled earlier/last night (*"No need to check dribbble.com. I`ll tell you every time I create a button right here on Twitter. And remind you if you missed it"*)  ([@iconaholic](http://twitter.com/iconaholic))
 
-Checked In ("You *need* to know everwhere I am/have been")  
-(?i)checked.*in
+* `(?i)popular.*page` - Popular page (*"I`m pretty amazing, I made the Popular Page on Dribbble"* *smug grin*)  ([@iconaholic](http://twitter.com/iconaholic))
 
-iPad mini  
-(?i)ipad.*mini.*|.*mini.*ipad
+Topical
+-----------
+* `(?i)ipad.*mini.*|.*mini.*ipad` - iPad mini  ([@iconaholic](http://twitter.com/iconaholic))
 
-Dock connector  
-(?i)dock.*connect(o|e)r
+* `(?i)dock.*connect(o|e)r` - Dock connector (iPhone 5)  ([@iconaholic](http://twitter.com/iconaholic))
 
-App.Net  
-(?i)app.*net
+* `(?i)app.*net` - App.Net  ([@iconaholic](http://twitter.com/iconaholic))
+
+Annoyances
+----------
+* `(?i)checked.*in` - I checked in at... (*"You *need* to know everwhere I am/have been"*)  ([@iconaholic](http://twitter.com/iconaholic)) 
+
+
