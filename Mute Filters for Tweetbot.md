@@ -1,7 +1,7 @@
 
 Persistent
 -----------
-* `(?i)timezone.*(retweet|rt)` - Timezone RT (*"Nothing I tweet should ever be missed. Ever"*)
+* `(?i)(timezone|time.*zone).*(retweet|rt)` - Timezone RT (*"Nothing I tweet should ever be missed. Ever"*)
 
 * `(?i)in.*case.*you.*missed.*it` - In case you missed it… (*"…I did something amazing that shouldn`t be missed"*)
 
