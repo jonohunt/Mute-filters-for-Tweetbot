@@ -11,6 +11,8 @@ Ego Stroking
 
 * `(?i)popular.*page` - Popular page (*"I`m pretty amazing, I made the Popular Page on Dribbble"* )
 
+* `(?i)followers.*on.*(dribbble|twitter)` - (*"I've got xxx followers on Dribbble/Twitter")*
+
 Topical
 -----------
 * `(?i)ipad.*mini.*|.*mini.*ipad` - iPad mini
