@@ -1,18 +1,3 @@
-
-Persistent
------------
-* `(?i)(timezone|time.*zone).*(retweet|rt)` - Timezone RT (*"Nothing I tweet should ever be missed. Ever"*)
-
-* `(?i)in.*case.*you.*missed.*it` - In case you missed it… (*"…I did something amazing that shouldn`t be missed"*)
-
-Ego Stroking
------------
-* `(?i)dribbble.*(last.*night|earlier)|(last.*night|earlier).*dribbble` - I @Dribbbled earlier/last night
-
-* `(?i)popular.*page` - Popular page (*"I`m pretty amazing, I made the Popular Page on Dribbble"* )
-
-* `(?i)followers.*on.*(dribbble|twitter)` - (*"I've got xxx followers on Dribbble/Twitter")*
-
 Topical
 -----------
 * `(?i)ipad.*mini.*|.*mini.*ipad` - iPad mini
@@ -23,9 +8,25 @@ Topical
 
 * `(?i)twitter.*(api|1.1)|api.*(twitter|1.1)|1.1.*(twitter|api)` - Twitter's new 1.1 API
 
+* `(?i)(politic|republican|election|democrat|obama|romney|biden|\bgop\b|\bama\b)`  - 2010 US elections
+
+Persistent
+-----------
+* `(?i)(timezone|time.*zone).*(retweet|rt)` - Timezone RT
+
+* `(?i)(in.*case|if).*you.*missed.*it` - In case you missed it…
+
+Ego Stroking
+-----------
+* `(?i)dribbble.*(last.*night|earlier)|(last.*night|earlier).*dribbble` - I @dribbbled earlier/last night
+
+* `(?i)popular.*page` - Popular page (*"I made the Popular Page on @dribbble"* )
+
+* `(?i)followers.*on.*(dribbble|twitter)` - *"I've got xxx followers on @dribbble/Twitter"*
+
 Annoyances
 ----------
-* `(?i)checked.*in` - I checked in at... (*"You *need* to know everwhere I am/have been"*)
+* `(?i)checked.*in` - I checked in at...
 
 Stating the obvious
 ----------
