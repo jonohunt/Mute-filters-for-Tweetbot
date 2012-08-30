@@ -1,5 +1,7 @@
 Topical
 -----------
+* `(?i)(politic|republican|election|democrat|obama|romney|biden|\bgop\b|\bama\b)`  - 2012 US elections
+
 * `(?i)ipad.*mini.*|.*mini.*ipad` - iPad mini
 
 * `(?i)dock.*connect(o|e)r` - Dock connector (iPhone 5)
