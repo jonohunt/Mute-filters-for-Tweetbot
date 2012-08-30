@@ -8,7 +8,7 @@ Topical
 
 * `(?i)twitter.*(api|1.1)|api.*(twitter|1.1)|1.1.*(twitter|api)` - Twitter's new 1.1 API
 
-* `(?i)(politic|republican|election|democrat|obama|romney|biden|\bgop\b|\bama\b)`  - 2010 US elections
+* `(?i)(politic|republican|election|democrat|obama|romney|biden|\bgop\b|\bama\b)`  - 2012 US elections
 
 Persistent
 -----------
