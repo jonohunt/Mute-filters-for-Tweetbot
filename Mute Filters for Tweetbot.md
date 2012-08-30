@@ -2,9 +2,9 @@ Topical
 -----------
 * `(?i)(politic|republican|election|democrat|obama|romney|biden|\bgop\b|\bama\b)`  - 2012 US elections
 
- * `(?i)twitter.*(api|1.1)|api.*(twitter|1.1)|1.1.*(twitter|api)` - Twitter's new 1.1 API
+* `(?i)twitter.*(api|1.1)|api.*(twitter|1.1)|1.1.*(twitter|api)` - Twitter's new 1.1 API
   
- * `(?i)app.*net` - App.Net
+* `(?i)app.*net` - App.Net
 
 * `(?i)ipad.*mini.*|.*mini.*ipad` - iPad mini
 
