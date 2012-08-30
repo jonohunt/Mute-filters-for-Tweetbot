@@ -12,8 +12,6 @@ Topical
 
 * `(?i)app.*net` - App.Net
 
-* `(?i)twitter.*(api|1.1)|api.*(twitter|1.1)|1.1.*(twitter|api)` - Twitter's new 1.1 API
-
 Persistent
 -----------
 * `(?i)(timezone|time.*zone).*(retweet|rt)` - Timezone RT
