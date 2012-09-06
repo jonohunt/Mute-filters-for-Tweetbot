@@ -20,14 +20,16 @@ Persistent
 
 Ego Stroking
 -----------
-* `(?i)dribbble.*(last.*night|earlier)|(last.*night|earlier).*dribbble` - I @dribbbled earlier/last night
+* `(?i)dribbb?le.*(last.*night|earlier)|(last.*night|earlier).*dribbb?le` - I @dribbbled earlier/last night
 
 * `(?i)popular.*page` - Popular page (*"I made the Popular Page on @dribbble"* )
 
-* `(?i)followers.*on.*(dribbble|twitter)` - *"I've got xxx followers on @dribbble/Twitter"*
+* `(?i)followers.*on.*(dribbb?le|twitter)` - *"I've got xxx followers on @dribbble/Twitter"*
 
 Annoyances
 ----------
+* `(?i)please.*(\bwatch\b|\bfollow\b)|(\bwatch\b|\bfollow\b).*(me|please|back)` - Follow me, watch me, follow back, watch me please, follow me please etc...
+
 * `(?i)checked.*in` - I checked in at...
 
 Stating the obvious
