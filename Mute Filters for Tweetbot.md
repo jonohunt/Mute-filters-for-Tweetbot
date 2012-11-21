@@ -24,7 +24,7 @@ Ego Stroking
 -----------
 * `(?i)dribbb?le.*(last.*night|earlier)|(last.*night|earlier).*dribbb?le` - I @dribbbled earlier/last night
 
-* `(?i)popular.*page` - Popular page (*"I made the Popular Page on @dribbble"* )
+* `(?i)popular.*page|dribbb?le.*(front.*page)` - Popular page/front page (*"I made the popular page/front page on @dribbble"* )
 
 * `(?i)followers.*on.*(dribbb?le|twitter)` - *"I've got xxx followers on @dribbble/Twitter"*
 
