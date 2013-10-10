@@ -34,6 +34,8 @@ Annoyances
 
 * `(?i)checked.*in` - I checked in at...
 
+* (@.*){5} - mute all tweets containing more than 5 @ mentions.
+
 Stating the obvious
 ----------
 * `(?i)((new|change).*avatar)|(avatar.*(new|change))` - *"Look, I changed my avatar"*
