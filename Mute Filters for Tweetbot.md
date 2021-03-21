@@ -36,6 +36,8 @@ Annoyances
 
 * (@.*){5} - mute all tweets containing more than 5 @ mentions.
 
+* `(?i)[A-Z][A-Z][A-Z] \u2708\ufe0f [A-Z][A-Z][A-Z]` - Tweeting a flight: LHR ✈️ SFO
+
 Stating the obvious
 ----------
 * `(?i)((new|change).*avatar)|(avatar.*(new|change))` - *"Look, I changed my avatar"*
